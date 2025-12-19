@@ -1,6 +1,6 @@
 # Desafio-Alura-Store
 Repositorio del Desafío 1 en analisis de datos. Fundamentos de Python y Datos G9 - ONE.
-## Análisis Comparativo de Tiendas
+## INFORME: Análisis Comparativo de Tiendas
 ### Descripción
 Este analisis proporcionará información para evaluar el rendimiento de 4 tiendas. De forma comparativa se evalúan los ingresos totales, la facturación trimestral, su calificación promedio,  categorías más y menos vendidas, y costo de envíos. Con el objetivo de brindar información estratégica para decidir que tienda conviene vender. 
 
